@@ -22,7 +22,7 @@ The included code, which is in form of Ipython Notebook, downloads the dataset a
 The code needed to preprocess the data and train the model is available in the following notebook.
 Set the runtime to GPU and run everything.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/https://github.com/muhammad-umair-usmani/Human_Detection/Dataset_Preparation+Yolov5m_Training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/muhammad-umair-usmani/Human_Detection/Dataset_Preparation+Yolov5m_Training.ipynb)
 
 ## you can find training model checkpoint and tensorboard logs and weights here: [Link](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) 
 
