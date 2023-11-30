@@ -24,11 +24,11 @@ Set the runtime to GPU and run everything.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/muhammad-umair-usmani/Human_Detection/blob/main/Dataset_Preparation%2BYolov5m_Training.ipynb)
 
-#Yolo Weights and checkpoint to resume training
+# Yolo Weights and checkpoint to resume training
 
 The weights are also available to run using the official yolov5 code found [here](https://github.com/ultralytics/yolov5)
 
-## you can find trained model checkpoint, tensorboard logs and weights here: [Link](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) 
+# you can find trained model checkpoint, tensorboard logs and weights here: [Link](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) 
 
 Finally yolov5m is trained. Below are training metrics and performanceimages
 
