@@ -18,6 +18,14 @@ The WiderPerson dataset is a pedestrian detection benchmark dataset in the wild,
 
 The included code, which is in form of Ipython Notebook, downloads the dataset and perform processing.
 
+# Colab Notebook
+The code needed to preprocess the data and train the model is available in the following notebook.
+Set the runtime to GPU and run everything.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/https://github.com/muhammad-umair-usmani/Human_Detection/Dataset Preparation+Yolov5m_Training.ipynb)
+
+## you can find training model checkpoint and tensorboard logs and weights here: [Link](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) 
+
 Finally yolov5m is trained. Below are training metrics and performanceimages
 
 ![image](./training_metrics.png)
@@ -25,9 +33,11 @@ Finally yolov5m is trained. Below are training metrics and performanceimages
 ![image](./training_loss.png)
 ![image](./training_lr.png)
 
+# labels correlogram
+
 ![image](./labels.jpg)
 ![image](./labels_correlogram.jpg)
-
+# Results
 ![image](./train_batch2.jpg)
 
 
