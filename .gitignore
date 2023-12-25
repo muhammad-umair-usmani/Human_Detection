@@ -1,0 +1,8 @@
+.vscode/
+.ipynb_checkpoints
+
+# interpreter bytecode
+__pycache__/
+
+# experiment results videos
+yolov5/
