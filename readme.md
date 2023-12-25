@@ -29,7 +29,7 @@ Set the runtime to GPU and run everything.
 
 <summary> Yolo Weights and checkpoint to resume training </summary>
 
-The  newly trained [weights](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) are also available to run using the official yolov5 code found [here](https://github.com/ultralytics/yolov5)
+The newly trained [weights](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) are also available to run using the official yolov5 code found [here](https://github.com/ultralytics/yolov5)
 
 # you can find trained model checkpoint, tensorboard logs and weights here: [Link](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) 
 
@@ -48,6 +48,7 @@ The  newly trained [weights](https://drive.google.com/drive/folders/1Yw9tnRs0Lwe
   <img src="./labels.jpg" width="400" />
   <img src="./labels_correlogram.jpg" width="400" />
 </p>
+
 # Results
 <p float="left">
 <img src="./train_batch2.jpg" width="800" />
@@ -55,6 +56,7 @@ The  newly trained [weights](https://drive.google.com/drive/folders/1Yw9tnRs0Lwe
 </details>
 
 <details>
+
 <summary>Inference</summary>
 
 YOLOv5 [PyTorch Hub](https://docs.ultralytics.com/yolov5/tutorials/pytorch_hub_model_loading) inference. [Models](https://github.com/ultralytics/yolov5/tree/master/models) download automatically from the latest YOLOv5 [release](https://github.com/ultralytics/yolov5/releases).
