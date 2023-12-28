@@ -29,7 +29,7 @@ Set the runtime to GPU and run everything.
 
 <summary> Yolo Weights and checkpoint to resume training </summary>
 
-The newly trained [weights](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) are also available to run using the official yolov5 code found [here](https://github.com/ultralytics/yolov5)
+The newly trained [weights](https://drive.google.com/file/d/10Rm1bTyP8-bfXCRnE0f6_DZ-TZL-4wvH/view?usp=sharing) are also available to run using the official yolov5 code found [here](https://github.com/ultralytics/yolov5)
 
 # you can find trained model checkpoint, tensorboard logs and weights here: [Link](https://drive.google.com/drive/folders/1Yw9tnRs0LweOGaYGI4SSyUhW0Gf0gGfY?usp=sharing) 
 
